@@ -49,3 +49,10 @@ Each satisfied condition improves the overall password score and its correspondi
 git clone https://github.com/yourusername/password-strength-checker.git
 cd password-strength-checker
 python password_strength_checker.py
+
+
+---
+
+Let’s commit this to GitHub? Or want me to prepare the repo files in a `.zip` so you can push directly?  
+Just say the word, boss. 😎
+
